@@ -1,4 +1,4 @@
-#leran git
+#learn git
 
 ## 1.初始化Git
 - 初始化一个Git仓库，使用git init命令。
